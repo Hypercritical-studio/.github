@@ -1,7 +1,7 @@
 
 <section class="readme">
 
-# Hypercritical studio
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; # Hypercritical studio
 
 <img style="height: 100px; margin: auto" src="https://github.com/Hypercritical-studio/.github/assets/43224578/069850fb-dd1f-49ec-8578-d8c8ae644787"/>
 
