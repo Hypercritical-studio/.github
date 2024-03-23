@@ -1,20 +1,9 @@
 
-
-<style>
-  /* CSS to center headings and images */
-  h1, h2, h3, h4, h5, h6 {
-    text-align: center;
-  }
-  img {
-    display: block;
-    margin: 0 auto; /* This centers the image */
-  }
-  </style>
 <section class="readme" style="display:grid">
 
 # Hypercritical studio
 
-<img style="height: 100px; margin: auto" src="https://github.com/Hypercritical-studio/.github/assets/43224578/069850fb-dd1f-49ec-8578-d8c8ae644787"/>
+<img style="height: 100px; margin:0 auto;display:block" src="https://github.com/Hypercritical-studio/.github/assets/43224578/069850fb-dd1f-49ec-8578-d8c8ae644787"/>
 
 <div class="separator"></div>
 <br>
