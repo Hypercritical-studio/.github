@@ -3,9 +3,9 @@
 
 # <p align="center">Hypercritical studio</p>
 
-
-<img align="center" style="height: 100px; margin:0 auto;display:block" src="https://github.com/Hypercritical-studio/.github/assets/43224578/069850fb-dd1f-49ec-8578-d8c8ae644787"/>
-
+<p align="center">
+<img style="height: 100px; margin:0 auto;display:block" src="https://github.com/Hypercritical-studio/.github/assets/43224578/069850fb-dd1f-49ec-8578-d8c8ae644787"/>
+</p>
 
 <div class="separator"></div>
 <br>
