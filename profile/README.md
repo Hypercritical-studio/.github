@@ -1,4 +1,15 @@
 
+
+<style>
+  /* CSS to center headings and images */
+  h1, h2, h3, h4, h5, h6 {
+    text-align: center;
+  }
+  img {
+    display: block;
+    margin: 0 auto; /* This centers the image */
+  }
+  </style>
 <section class="readme" style="display:grid">
 
 # Hypercritical studio
