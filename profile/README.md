@@ -1,6 +1,6 @@
 # Hypercritical studio
 
-![hypercritical-923](https://github.com/Hypercritical-studio/.github/assets/43224578/069850fb-dd1f-49ec-8578-d8c8ae644787)
+<img style="height: 100px" src="https://github.com/Hypercritical-studio/.github/assets/43224578/069850fb-dd1f-49ec-8578-d8c8ae644787"/>
 
 
 <!--
